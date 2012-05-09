@@ -1,0 +1,5 @@
+Wenn selbstgenutzt.Und(bezugsfertig),
+	Dann:
+		monatlichesNettoeinkommen - Kreditrate,
+	Sonst:
+		monatlichesNettoeinkommen - Kreditrate + monatlicheMiete
