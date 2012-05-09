@@ -1,0 +1,16 @@
+Verzweige (Beruf, 
+	Renter:
+		monatlichesRentenzahlungen - Steuern - sonstigeBelastungen,
+
+	Pensionär:
+		monatlichesPensionszahlungen - Steuern - Sozialabgaben - sonstigeBelastungen,
+
+	Student:
+		monatlichesBruttoeinkommen - sonstigeBelastungen,
+
+	Angestellter:
+		monatlichesBruttoeinkommen - Steuern - Sozialabgaben - sonstigeBelastungen,
+
+	Beamter:
+		monatlichesBruttoeinkommen - Steuern - sonstigeBelastungen
+)

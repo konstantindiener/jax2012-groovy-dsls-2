@@ -1,0 +1,5 @@
+Wenn Immobilie.selbstgenutzt.Und(Immobilie.bezugsfertig),
+	Dann:
+		Antragsteller.monatlichesNettoeinkommen - Kreditrate,
+	Sonst:
+		Antragsteller.monatlichesNettoeinkommen - Kreditrate + Immobilie.monatlicheMiete
